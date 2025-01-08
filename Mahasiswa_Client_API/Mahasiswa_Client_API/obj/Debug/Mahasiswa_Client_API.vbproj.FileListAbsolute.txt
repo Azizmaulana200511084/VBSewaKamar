@@ -1,0 +1,107 @@
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.pdb
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.xml
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.pdb
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.exe
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.xml
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.dll
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbproj.GenerateResource.Cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form2.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form2.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form3.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbproj.GenerateResource.Cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form4.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 14\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 14\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 14\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 14\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 14\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 14\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 14\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 14\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 14\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 14\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form2.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 14\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form3.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 14\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form4.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 14\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 14\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbproj.GenerateResource.Cache
+D:\Nebeng\New folder\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe.config
+D:\Nebeng\New folder\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.exe
+D:\Nebeng\New folder\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.xml
+D:\Nebeng\New folder\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.pdb
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe.config
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.exe
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.xml
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.pdb
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.pdb
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.xml
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.dll
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.pdb
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.xml
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbprojResolveAssemblyReference.cache
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form1.resources
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form2.resources
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form3.resources
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form4.resources
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Resources.resources
+D:\Nebeng\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\pertemuan 02 07 2023\zet\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe.config
+C:\Users\Aziz Maulana\Downloads\pertemuan 02 07 2023\zet\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.exe
+C:\Users\Aziz Maulana\Downloads\pertemuan 02 07 2023\zet\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.xml
+C:\Users\Aziz Maulana\Downloads\pertemuan 02 07 2023\zet\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.pdb
+C:\Users\Aziz Maulana\Downloads\pertemuan 02 07 2023\zet\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe
+C:\Users\Aziz Maulana\Downloads\pertemuan 02 07 2023\zet\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.pdb
+C:\Users\Aziz Maulana\Downloads\pertemuan 02 07 2023\zet\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.xml
+C:\Users\Aziz Maulana\Downloads\pertemuan 02 07 2023\zet\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aziz Maulana\Downloads\pertemuan 02 07 2023\zet\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbprojResolveAssemblyReference.cache
+C:\Users\Aziz Maulana\Downloads\pertemuan 02 07 2023\zet\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form1.resources
+C:\Users\Aziz Maulana\Downloads\pertemuan 02 07 2023\zet\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form2.resources
+C:\Users\Aziz Maulana\Downloads\pertemuan 02 07 2023\zet\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form3.resources
+C:\Users\Aziz Maulana\Downloads\pertemuan 02 07 2023\zet\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form4.resources
+C:\Users\Aziz Maulana\Downloads\pertemuan 02 07 2023\zet\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Resources.resources
+C:\Users\Aziz Maulana\Downloads\pertemuan 02 07 2023\zet\zet\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\sewakamar\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe.config
+C:\Users\Aziz Maulana\Downloads\sewakamar\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.exe
+C:\Users\Aziz Maulana\Downloads\sewakamar\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.xml
+C:\Users\Aziz Maulana\Downloads\sewakamar\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.pdb
+C:\Users\Aziz Maulana\Downloads\sewakamar\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbprojResolveAssemblyReference.cache
+C:\Users\Aziz Maulana\Downloads\sewakamar\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Resources.resources
+C:\Users\Aziz Maulana\Downloads\sewakamar\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\sewakamar\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe
+C:\Users\Aziz Maulana\Downloads\sewakamar\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.pdb
+C:\Users\Aziz Maulana\Downloads\sewakamar\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.xml
+C:\Users\Aziz Maulana\Downloads\sewakamar\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aziz Maulana\Downloads\sewakamar\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.FormKamar.resources
+C:\Users\Aziz Maulana\Downloads\sewakamar\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.FormPenyewa.resources
+C:\Users\Aziz Maulana\Downloads\sewakamar\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.FormSewaKamar.resources
